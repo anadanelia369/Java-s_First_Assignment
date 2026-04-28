@@ -3,7 +3,7 @@ package org.example;
 
     public static void main(String[] args) {
 
-//      // დავალება #1
+      // დავალება #1
       int j = 1;
       while (j <= 10) {
         System.out.println("3 * " + j + " = " + (3 * j));
@@ -71,8 +71,8 @@ package org.example;
 
         }
       }
-    }
-  }
+
+
 
 
 
